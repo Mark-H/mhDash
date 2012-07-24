@@ -1,5 +1,3 @@
 Feel free to use this code as you please. It's GPL, I can't take credit for the biggest part of it as most of it was taken from the MODX Revolution source but slightly modified.
   
 You can install mhDash via your package manager in MODX 2.2, or download it from "the MODX Extras Repo":http://modx.com/extras/package/mhdash.
-
-edit from ipad test
